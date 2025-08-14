@@ -1,0 +1,2 @@
+The project is deployed on a ubuntu VM, hosted on GNS3, using MikroTik's devices, where each component is a separate docker container.
+The scenario simulates an enterprise network spread across 3 locations, with a dedicated server farm hosted in one the sites.
